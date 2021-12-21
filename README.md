@@ -1,6 +1,13 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Макаров Михаил
+Макаров Михаил - Mikhail Makarov - Michael M.
+
+### 💻 My stack
+ - Python
+ - Django, Django REST framework
+ - Docker, docker-compose
+ - PostgreSQL
+ - Linux
 <!--
 **trdMichaelM/trdMichaelM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
