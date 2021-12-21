@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Макаров Михаил - Mikhail Makarov - Michael M.
+Михаил Макаров - Mikhail Makarov - Michael M.
 
 ### 💻 My stack
  - Python
