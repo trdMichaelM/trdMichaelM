@@ -2,12 +2,17 @@
 
 Михаил Макаров - Mikhail Makarov - Michael M.
 
-### 💻 My stack
+### 💻 My technology stack
  - Python
  - Django, Django REST framework
- - Docker, docker-compose
  - PostgreSQL
+ - Docker
  - Linux
+
+### 📫 How to reach me
+ - trdMichaelM@yandex.ru
+ - Telegram: @trdMichaelM
+
 <!--
 **trdMichaelM/trdMichaelM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
